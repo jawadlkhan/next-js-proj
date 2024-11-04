@@ -13,17 +13,8 @@ export default function Page() {
             </Link>
           </p>
 
-          <p>
-            <Link href="/chat" className="text-blue-500 hover:underline">
-              Chatting
-            </Link>
-          </p>
-
-          <p>
-            <Link href="/login" className="text-blue-500 hover:underline">
-              Login
-            </Link>
-          </p>
+          
+          
         </div>
       </div>
     </div>
